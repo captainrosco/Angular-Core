@@ -1,0 +1,11 @@
+C:\Users\daron\Desktop\Core\Core.Api\bin\Debug\netcoreapp2.0\Core.Api.deps.json
+C:\Users\daron\Desktop\Core\Core.Api\bin\Debug\netcoreapp2.0\Core.Api.runtimeconfig.json
+C:\Users\daron\Desktop\Core\Core.Api\bin\Debug\netcoreapp2.0\Core.Api.runtimeconfig.dev.json
+C:\Users\daron\Desktop\Core\Core.Api\bin\Debug\netcoreapp2.0\Core.Api.dll
+C:\Users\daron\Desktop\Core\Core.Api\bin\Debug\netcoreapp2.0\Core.Api.pdb
+C:\Users\daron\Desktop\Core\Core.Api\obj\Debug\netcoreapp2.0\Core.Api.csprojAssemblyReference.cache
+C:\Users\daron\Desktop\Core\Core.Api\obj\Debug\netcoreapp2.0\Core.Api.csproj.CoreCompileInputs.cache
+C:\Users\daron\Desktop\Core\Core.Api\obj\Debug\netcoreapp2.0\Core.Api.AssemblyInfoInputs.cache
+C:\Users\daron\Desktop\Core\Core.Api\obj\Debug\netcoreapp2.0\Core.Api.AssemblyInfo.cs
+C:\Users\daron\Desktop\Core\Core.Api\obj\Debug\netcoreapp2.0\Core.Api.dll
+C:\Users\daron\Desktop\Core\Core.Api\obj\Debug\netcoreapp2.0\Core.Api.pdb
